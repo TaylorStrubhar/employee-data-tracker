@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "figlet": "^1.5.2",
+    "inquirer": "^9.0.2",
+    "mysql": "^2.18.1",
+    "node": "^18.5.0"
+  }
+}
