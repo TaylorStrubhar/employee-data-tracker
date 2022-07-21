@@ -7,7 +7,6 @@ const update = require('./lib/updateFunctions');
 const cTable = require('console.table');
 const figlet = require('figlet');
 const inquirer = require('inquirer');
-const { start } = require('repl');
 
 const promptUser = (questions) => {
     return inquirer.prompt(questions);
