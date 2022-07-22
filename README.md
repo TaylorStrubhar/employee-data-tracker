@@ -19,7 +19,7 @@ This was an exercise in creating and modifiying a SQL database in the form of an
 
 [A video of the app being used can be accessed here.](https://drive.google.com/file/d/1sl1apdsQIhiHoNNrzMOQeCnETxtQFG41/view)
 
-![The opening screen of the EDT app.](../_images/EDTexample.png "Opening screen of the Employee Data Tracker app")
+![The opening screen of the EDT app.](./_images/edtexample.png "Opening screen of the Employee Data Tracker app")
 
 ## Installation
 
